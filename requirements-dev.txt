@@ -1,0 +1,6 @@
+# Add the packages needed for the development process, for tasks such as testing
+
+uvicorn==0.23.2
+aiomysql==0.2.0
+asyncpg==0.28.0
+pytest==7.4.2
